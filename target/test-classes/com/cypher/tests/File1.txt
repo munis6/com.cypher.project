@@ -1,2 +1,0 @@
-HelloJava is the first java program developed
-line 2 added 
