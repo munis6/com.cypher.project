@@ -11,6 +11,7 @@ public class HelloJava {
 		
 		System.out.println("Str1:"+HelloJava.str1+" , "+"Str2:"+str2.length());
 		
+		System.out.println("Program execution is completed now");
 	
 	}
 
